@@ -8,7 +8,8 @@ started.
 
 1. **Clone the repository**:
    ```bash
-   git clone
+    git clone https://github.com/unstacked-labs/genkit-typescript-template.git
+    cd genkit-typescript-template
    ```
 2. **Install dependencies**:
    ```bash
